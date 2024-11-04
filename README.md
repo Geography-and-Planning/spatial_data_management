@@ -1,4 +1,4 @@
-# Spatial data management Course summarize and notes
+# Spatial data management Course notes
 
 
 ![](logo.jpg)
