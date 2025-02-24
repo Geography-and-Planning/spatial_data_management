@@ -2216,4 +2216,3 @@ INSERT INTO nyc_census_sociodata VALUES ('36085990100', 0, 0, 0, 0, 0, 0, 0, 0, 
 --
 -- PostgreSQL database dump complete
 --
-
